@@ -1,11 +1,6 @@
-## My Project
+## Implementing Granular Failover in Multi-Region Amazon EKS
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This project contains the code mentioned in the AWS blog : [Implementing Granular Failover in Multi-Region Amazon EKS]()
 
 ## Security
 
